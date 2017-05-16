@@ -2,10 +2,15 @@ console.log("Fuck you, Rob");
 console.warn("What the fuck are you doing?");
 console.error("god help me");
 
-var foo = "hello",
-bar = "world",
-baz = 3;
+var myDog = {
+  "name" : {
+    "first" : "Zero",
+    "middle" : "Baskerville",
+    "last" : "Marquis"
+  },
 
-var foo = "hello";
-var bar = "world";
-var baz = 3;
+  "color" : "orange",
+  "ageInYears" : 3,
+  "wellBehaved" : false
+};
+
